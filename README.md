@@ -80,6 +80,3 @@ Play again? (y/n):
 * GUI version using Tkinter or Pygame
 
 ---
-
-
-If you want, I can also make a **GitHub-style professional README with badges + screenshots** or convert this into a **resume project description**.
